@@ -8,3 +8,6 @@
 
 (Build a Complete Responsive Personal Portfolio Website using HTML CSS Javascript)
 - https://www.youtube.com/watch?v=UqHILyzcULE
+
+(Create a Responsive Personal Portfolio Website Using HTML CSS & JavaScript)
+- https://youtu.be/YlR3JWnEHBk?si=PSdGXupavTUfpB6j
