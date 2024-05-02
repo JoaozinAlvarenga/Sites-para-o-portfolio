@@ -11,3 +11,8 @@
 
 (Create a Responsive Personal Portfolio Website Using HTML CSS & JavaScript)
 - https://youtu.be/YlR3JWnEHBk?si=PSdGXupavTUfpB6j
+
+# Sites para criações aleatorias
+
+(How to Create Memory Game in JavaScript)
+https://youtu.be/M0egyNvsN-Y?si=Ddf3PIr5OLSblmjf
